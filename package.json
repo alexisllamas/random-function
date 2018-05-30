@@ -1,0 +1,15 @@
+{
+  "name": "random-function",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:alexisllamas/random-function.git",
+  "author": "Alexis Navarro <alexisnavarro23@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
